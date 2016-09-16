@@ -2,3 +2,11 @@
 *.conf
 *.config
 *.cfg
+
+# Node files
+node_modules
+
+# Log files
+*.log
+logs
+npm-debug.log*
