@@ -1,0 +1,25 @@
+{
+  "name": "noodley",
+  "version": "1.0.0",
+  "description": "ci/cd for my github projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hebron-george/noodley.git"
+  },
+  "keywords": [
+    "noodley",
+    "noodles",
+    "ci",
+    "cd"
+  ],
+  "author": "Hebron George",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hebron-george/noodley/issues"
+  },
+  "homepage": "https://github.com/hebron-george/noodley#readme"
+}
